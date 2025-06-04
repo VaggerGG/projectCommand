@@ -1,4 +1,4 @@
-# projectCommand
+# Command
 
 Camilo Alejandro Linares Moreno - 20232020346
 
